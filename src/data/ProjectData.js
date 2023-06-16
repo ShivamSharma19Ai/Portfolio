@@ -16,8 +16,8 @@ export const ProjectList = [
     title: "Portfolio",
     description: "My Portfolio Website to take a look at my projects",
     tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
+    github_url: "https://github.com/ShivamSharma19Ai/Portfolio",
+    demo_url: "https://github.com/ShivamSharma19Ai/Portfolio",
   }
  
 ];
